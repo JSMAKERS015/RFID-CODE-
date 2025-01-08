@@ -47,6 +47,9 @@ while True:
 
 
 
+
+
+
 2.  After Uploading the code open the serial monitor and scan your card. Below you can find your Unique ID copy and store the ID somewhere safe.
    
 ![Capture](https://github.com/user-attachments/assets/8a6d7776-2bd6-42d1-8397-ff872440694e)
