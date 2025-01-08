@@ -1,7 +1,7 @@
 
 # **WEBSITE Opening Uising RFID** 
 
-Using this code you can open any favourite website using the RFID Module.
+Using this code you can link any favourite website to the RFID Module and can open using RFID Card
 
 ### **STEPS:**
 
